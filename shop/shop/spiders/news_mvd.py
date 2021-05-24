@@ -1,5 +1,4 @@
 import scrapy
-from six import b
 from shop.items import ShopItem
 from scrapy.loader import ItemLoader
 
