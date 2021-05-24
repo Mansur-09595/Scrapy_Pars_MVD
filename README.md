@@ -22,6 +22,6 @@
 
 #### Основы функции парса находятся
 
-Scrapy_Pars_MVD/shop/shop/items.py
+/shop/shop/items.py
 
-Scrapy_Pars_MVD/shop/shop/spiders/news_mvd.py
+/shop/shop/spiders/news_mvd.py
